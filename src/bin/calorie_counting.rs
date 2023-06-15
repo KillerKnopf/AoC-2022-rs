@@ -1,7 +1,7 @@
 use std::fs;
 
 fn main() {
-    let input_file = "input.txt";
+    let input_file = "inputs/input-d1.txt";
 
     let content = fs::read_to_string(input_file).expect("Couldn't read file!");
     // println!("{}", content);
