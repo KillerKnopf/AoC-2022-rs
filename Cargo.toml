@@ -8,9 +8,9 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "calorie_counting"
+name = "day1"
 path = "src/bin/calorie_counting.rs"
 
 [[bin]]
-name = "rock_paper_scissors"
+name = "day2"
 path = "src/bin/rock_paper_scissors.rs"
