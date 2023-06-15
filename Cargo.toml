@@ -10,3 +10,7 @@ edition = "2021"
 [[bin]]
 name = "calorie_counting"
 path = "src/bin/calorie_counting.rs"
+
+[[bin]]
+name = "rock_paper_scissors"
+path = "src/bin/rock_paper_scissors.rs"
