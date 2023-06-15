@@ -118,7 +118,7 @@ fn part_two(state: &mut State) {
 
 fn initalize_state() -> State {
     // Read input file and initialize a State struct from it
-    let input = fs::read_to_string("input-d5.txt").expect("Failed to read file!");
+    let input = fs::read_to_string("inputs/input-d5.txt").expect("Failed to read file!");
 
     // Split input into two initial state and instructions
     let mut split_input = input.split("\r\n\r\n");

@@ -31,3 +31,7 @@ path = "src/bin/supply_stacks.rs"
 [[bin]]
 name = "day6"
 path = "src/bin/tuning_trouble.rs"
+
+[[bin]]
+name = "day7"
+path = "src/bin/no_space_left_on_device.rs"

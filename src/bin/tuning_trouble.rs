@@ -1,7 +1,7 @@
 use std::fs;
 
 fn main() {
-    let input = fs::read_to_string("input-d6.txt").expect("Couldn't read input.txt!");
+    let input = fs::read_to_string("inputs/input-d6.txt").expect("Couldn't read input.txt!");
 
     part_one(&input);
     part_two(&input);
