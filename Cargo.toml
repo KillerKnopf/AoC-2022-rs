@@ -18,3 +18,7 @@ path = "src/bin/rock_paper_scissors.rs"
 [[bin]]
 name = "day3"
 path = "src/bin/rucksack_reorganization.rs"
+
+[[bin]]
+name = "day4"
+path = "src/bin/camp_cleanup.rs"
