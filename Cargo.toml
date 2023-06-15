@@ -29,5 +29,5 @@ name = "day5"
 path = "src/bin/supply_stacks.rs"
 
 [[bin]]
-name = "day5"
+name = "day6"
 path = "src/bin/tuning_trouble.rs"
